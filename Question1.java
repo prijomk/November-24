@@ -1,6 +1,5 @@
 //WAP to count the number of vowels and consonants in a given string
 import java.util.Scanner;
-
 public class Question1 {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
