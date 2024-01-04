@@ -121,10 +121,10 @@ class Order { // Creating Class Order
 public class Exam {
     public static void main(String[] args) {
         Tshirt s1 = new Tshirt("Gorkhali Batman", 572, 1235, "Karuna",
-                "You either die a hero or live long enough to see yourself be a villain", new String[]{"XL", "Medium", "Large"});
+                "You either die a hero or live long enough to see yourself be a villain", new String[]{"S", "Medium", "Large"});
 
-        Tshirt s2 = new Tshirt("Nepal Flag", 681, 1780, "Himalayan Threads",
-                "Show your pride with the national flag on your chest!", new String[]{"Small", "Medium", "Large"});
+        Tshirt s2 = new Tshirt("Gorkhali Batman V2", 456, 1000, "Big Bang Theory",
+                "Show your pride with the national flag on your chest!", new String[]{"S", "Medium", "Large"});
 
         System.out.println("Tshirt 1:");
         s1.display();
